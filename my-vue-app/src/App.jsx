@@ -1,9 +1,14 @@
+import Sofi from "./sofi"
 
 function App() {
   
 
   return (
-   <h1>CODE WITH SOFI !!</h1>
+    <>
+   <Sofi/>
+   <h1>Hello !</h1>
+   <p>hey sofi!!</p>
+   </>
   )
 }
 
