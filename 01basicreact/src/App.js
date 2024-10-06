@@ -1,6 +1,5 @@
 import Sofi from "./Sofi"
 
-
 function App() {
   return (
    <>
